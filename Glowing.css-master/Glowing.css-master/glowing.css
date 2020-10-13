@@ -1,0 +1,54 @@
+/*!
+ * Glowing.css - a simple pure CSS to make PNG or anything glow!
+ * https://github.com/topex-psy/Glowing.css
+ *
+ * Version: 1.0
+ * Author: Taufik Nur Rahmanda (https://www.facebook.com/TopEx.Divine)
+ * Github: https://github.com/topex-psy
+
+ * Made available under a MIT License:
+ * http://www.opensource.org/licenses/mit-license.php
+ */
+ 
+.glowing {
+	-webkit-filter: drop-shadow(0 0 0 rgba(255,255,255,.8));
+	-webkit-transition: all .2s linear;
+	-moz-transition: all .2s linear;
+	-o-transition: all .2s linear;
+	transition: all .2s linear;
+}
+.glowing.red { -webkit-filter: drop-shadow(0 0 8px rgba(255,153,153,1)); }
+.glowing.orange { -webkit-filter: drop-shadow(0 0 8px rgba(244,173,66,1)); }
+.glowing.yellow { -webkit-filter: drop-shadow(0 0 8px rgba(244,241,66,1)); }
+.glowing.green { -webkit-filter: drop-shadow(0 0 8px rgba(83,244,66,1)); }
+.glowing.cyan { -webkit-filter: drop-shadow(0 0 8px rgba(0,255,221,1)); }
+.glowing.lightblue { -webkit-filter: drop-shadow(0 0 8px rgba(0,231,255,1)); }
+.glowing.blue { -webkit-filter: drop-shadow(0 0 8px rgba(0,153,255,1)); }
+.glowing.darkblue { -webkit-filter: drop-shadow(0 0 8px rgba(0,63,255,1)); }
+.glowing.indigo { -webkit-filter: drop-shadow(0 0 8px rgba(167,66,244,1)); }
+.glowing.purple { -webkit-filter: drop-shadow(0 0 8px rgba(244,66,232,1)); }
+.glowing.magenta { -webkit-filter: drop-shadow(0 0 8px rgba(255,109,194,1)); }
+.glowing.pink { -webkit-filter: drop-shadow(0 0 8px rgba(255,137,184,1)); }
+
+.and { }
+.quickly { -webkit-transition:-webkit-transform .05s !important;-moz-transition:-moz-transform .05s !important;-o-transition:-o-transform .05s !important;transition:transform .05s !important; }
+.rotating { -ms-transform:matrix(1.1,0.2,-0.2,1.1,0,0);-webkit-transform:matrix(1.1,0.2,-0.2,1.1,0,0);transform:matrix(1.1,0.2,-0.2,1.1,0,0); }
+.zooming { -ms-transform: scale(1.1,1.1);-webkit-transform: scale(1.1,1.1);transform: scale(1.1,1.1); }
+
+.disco {
+	-webkit-animation-duration: 1s;
+	-webkit-animation-timing-function: ease-in-out;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-name: disco;
+	animation-duration: 1s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	animation-name: disco;
+}
+@-webkit-keyframes disco {
+	0%    { -webkit-filter: drop-shadow(0 0 8px rgba(255,201,6,0.5)); }
+	25%  { -webkit-filter: drop-shadow(0 0 8px rgba(252,211,76,0.4)); }
+	50%  { -webkit-filter: drop-shadow(0 0 8px rgba(250,221,146,0.3)); }
+	75%  { -webkit-filter: drop-shadow(0 0 8px rgba(247,231,200,0.2)); }
+	100%    { -webkit-filter: drop-shadow(0 0 8px rgba(245,245,245,0)); }
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="530" height="109" viewBox="0 0 530 109">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#FFE5B0" d="M8 99h515V9H8z"/>
+        <path stroke="#A56D0A" stroke-linecap="round" stroke-linejoin="round" stroke-width="11.7" d="M7.868 98.352h515.043V9.046H7.868z"/>
+        <path stroke="#FFF" stroke-dasharray="0,10" stroke-linecap="round" stroke-width="3" d="M7 9h516v90H7V9z"/>
+        <path fill="#85592D" d="M525.202 0H497v1.55C497 18.367 510.975 32 528.316 32c.59 0 1.18-.081 1.684-.081V4.735C530 2.122 527.812 0 525.202 0M0 4.653V32h1.598C18.941 32 33 18.448 33 1.633 33 1.06 32.915.489 32.915 0H4.882C2.19 0 0 2.121 0 4.653M530 104.347V77h-1.599C511.06 77 497 90.552 497 107.367c0 .573.084 1.144.084 1.633h28.034c2.694 0 4.882-2.121 4.882-4.653M4.798 109H33v-1.551C33 90.633 19.026 77 1.684 77c-.59 0-1.179.081-1.684.081v27.183C0 106.877 2.188 109 4.798 109"/>
+        <text fill="#430000" font-family="NotoSerifCJKtc-Bold, Noto Serif CJK TC" font-size="30" font-weight="bold">
+            <tspan x="51" y="67">加入台新大管家 回饋寶箱等你開</tspan>
+        </text>
+    </g>
+</svg>

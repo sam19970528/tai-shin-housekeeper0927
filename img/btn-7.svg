@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="287" height="63" viewBox="0 0 287 63">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#430000" d="M0 0h287l-18.616 31.55L287 63H0l18.616-31.092z"/>
+        <path fill="#D8D8D8" d="M0 0h95L53.566 63H0l18.962-31zM193.618 0H262l-29.573 63H165z" opacity=".114"/>
+        <circle cx="32" cy="32" r="4" fill="#FFF"/>
+        <circle cx="254" cy="32" r="4" fill="#FFF"/>
+        <text fill="#FFF" font-family="NotoSerifCJKtc-Bold, Noto Serif CJK TC" font-size="20" font-weight="bold">
+            <tspan x="113.5" y="38">先分享</tspan>
+        </text>
+    </g>
+</svg>

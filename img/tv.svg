@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+    <defs>
+        <radialGradient id="a" fx="50%" fy="50%">
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="13.363%" stop-color="#FFF"/>
+            <stop offset="33.493%" stop-color="#FFF" stop-opacity=".892"/>
+            <stop offset="40.472%" stop-color="#FFF" stop-opacity=".824"/>
+            <stop offset="100%" stop-color="#FFF" stop-opacity="0"/>
+        </radialGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <circle cx="54.148" cy="54.148" r="54.148" fill="url(#a)"/>
+        <text fill="#430000" font-family="NotoSerifCJKtc-Bold, Noto Serif CJK TC" font-size="16" font-weight="bold">
+            <tspan x="20.073" y="91.522">有線電視</tspan>
+        </text>
+        <g>
+            <path fill="#364C56" d="M61.163 64.583H49.671l1.559-4.387h8.374z"/>
+            <path fill="#364C56" d="M59.604 60.196H51.23l-.943 2.654h10.26zM44.594 65.937h21.645v-1.354H44.594z"/>
+            <path fill="#5F7C8E" d="M25.773 59.165h56.93V25.84h-56.93z"/>
+            <path fill="#688796" d="M48.129 25.841L28.165 59.166h14.11L62.236 25.84zM65.878 25.841L45.862 59.166h5.314L71.193 25.84z"/>
+            <path fill="#364C56" d="M25.957 58.745h56.56v-32.69h-56.56v32.69zm57.487-35.207H25.03c-.711 0-1.296.66-1.296 1.468v35.206c0 .807.585 1.466 1.296 1.466h58.414c.713 0 1.296-.659 1.296-1.466V25.006c0-.808-.583-1.468-1.296-1.468z"/>
+            <path fill="#5F7C8E" d="M56.647 60.099c0 .194-.135.353-.305.353h-1.85c-.168 0-.305-.159-.305-.353v-.103c0-.196.137-.353.305-.353h1.85c.17 0 .305.157.305.353v.103z"/>
+        </g>
+    </g>
+</svg>

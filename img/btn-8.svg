@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="287" height="63" viewBox="0 0 287 63">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <path fill="#939393" d="M0 0h287l-18.616 31.55L287 63H0l18.616-31.092z"/>
+            <path fill="#D8D8D8" d="M0 0h94.408l-41.29 63H0l18.744-31zM193.357 0h68.468l-29.61 63h-67.51z" opacity=".114"/>
+            <circle cx="32" cy="32" r="4" fill="#FFF"/>
+            <circle cx="254" cy="32" r="4" fill="#FFF"/>
+        </g>
+        <text fill="#FFF" font-family="NotoSerifCJKtc-Bold, Noto Serif CJK TC" font-size="20" font-weight="bold">
+            <tspan x="114" y="38">再抽獎</tspan>
+        </text>
+    </g>
+</svg>

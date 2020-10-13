@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="108" height="108" viewBox="0 0 108 108">
+    <defs>
+        <radialGradient id="a" fx="50%" fy="50%">
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="13.363%" stop-color="#FFF"/>
+            <stop offset="33.493%" stop-color="#FFF" stop-opacity=".892"/>
+            <stop offset="40.472%" stop-color="#FFF" stop-opacity=".824"/>
+            <stop offset="100%" stop-color="#FFF" stop-opacity="0"/>
+        </radialGradient>
+        <radialGradient id="b" cy="50.002%" r="52.014%" fx="50%" fy="50.002%" gradientTransform="matrix(1 0 0 .92653 0 .037)">
+            <stop offset="0%" stop-color="#F27721"/>
+            <stop offset="100%" stop-color="#C35426"/>
+        </radialGradient>
+        <path id="c" d="M0 .468h29.4v3.945H0z"/>
+        <path id="e" d="M0 .263h29.4v3.945H0z"/>
+        <path id="g" d="M0 45.78h29.4V.196H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <circle cx="54.148" cy="54.148" r="54.148" fill="url(#a)"/>
+        <text fill="#430000" font-family="NotoSerifCJKtc-Bold, Noto Serif CJK TC" font-size="16" font-weight="bold">
+            <tspan x="27.148" y="97.522">瓦斯費</tspan>
+        </text>
+        <path fill="url(#b)" d="M13.426 10.097h2.547V6.851h-2.547z" transform="translate(39.38 21.167)"/>
+        <path fill="#ACBBC7" d="M39.38 58.646h29.4V36.213h-29.4z"/>
+        <path fill="#364452" d="M42.884 63.754h3.493V62.59h-3.493zM51.658 63.754h4.845V62.59h-4.845z"/>
+        <g transform="translate(39.38 21.463)">
+            <g transform="translate(0 10.337)">
+                <mask id="d" fill="#fff">
+                    <use xlink:href="#c"/>
+                </mask>
+                <path fill="#364452" d="M25.896.468H3.503S0 2.15 0 4.413h29.4c0-2.262-3.504-3.945-3.504-3.945" mask="url(#d)"/>
+            </g>
+            <path fill="#ACBBC7" d="M14.7 2.169H7.48c-.376 0-.68.36-.68.803v1.68c0 1.558 1.07 2.821 2.39 2.821h11.02c1.32 0 2.39-1.263 2.39-2.821v-1.68c0-.444-.305-.803-.68-.803H14.7zM25.215.197c.376 0 .68.359.68.802v9.806H3.503V.999c0-.443.305-.802.68-.802h21.033z"/>
+            <g transform="translate(0 36.92)">
+                <mask id="f" fill="#fff">
+                    <use xlink:href="#e"/>
+                </mask>
+                <path fill="#364452" d="M14.7.263H0c0 2.262 3.503 3.945 3.503 3.945h22.393s3.503-1.683 3.503-3.945H14.7z" mask="url(#f)"/>
+            </g>
+            <mask id="h" fill="#fff">
+                <use xlink:href="#g"/>
+            </mask>
+            <path fill="#364452" d="M22.403 42.29h3.493v-1.162h-3.493zM14.7 42.29H.858c-.283 0-.512.272-.512.606v2.884h28.706v-2.884c0-.334-.23-.605-.513-.605H14.7z" mask="url(#h)"/>
+            <path fill="#EEAC34" d="M16.72 7.291a2.02 2.02 0 1 1-4.04 0 2.02 2.02 0 0 1 4.04 0" mask="url(#h)"/>
+            <path fill="#BF3232" d="M16.048 7.291a1.349 1.349 0 1 1-2.697 0 1.349 1.349 0 0 1 2.697 0" mask="url(#h)"/>
+            <path fill="#FFF" d="M14.7 33.942l-7.892-7.891 7.892-7.892 7.89 7.892z" mask="url(#h)"/>
+            <path fill="#BF3232" d="M18.477 24.721c0 .63-.389 1.47-.984 1.776.44-.511.861-2.504-.504-4.205.019.676-.156 1.578-.69 2.57.294-1.582-1.15-3.171-.655-4.305-2.083 1.005-1.445 3.076-2 4.083-.238-.914-.85-1.954-1.191-2.077.212 1.542-1.038 2.03-.516 3.861 0 0-.661-1.074-.584-2.225-1.856 2.437-.366 5.605 1.42 6.315-.247-.608-.244-1.477.263-2.144-.038.572.29 1.106.29 1.106-.259-.91.362-1.153.257-1.919.17.061.474.579.592 1.032.276-.5-.041-1.53.994-2.029-.246.564.471 1.353.325 2.14.265-.493.352-.941.343-1.277.679.845.47 1.835.25 2.09.296-.152.49-.57.49-.883.286.605.26 1.317.04 1.884 1.785-.396 2.954-3.482 1.86-5.793" mask="url(#h)"/>
+        </g>
+    </g>
+</svg>

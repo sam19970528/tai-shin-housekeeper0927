@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="402" height="89" viewBox="0 0 402 89">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#430000" d="M0 0h401.8l-26.063 44.17L401.8 88.2H0l26.063-43.53z"/>
+        <path fill="#D8D8D8" d="M1.03 0H132.17L74.366 88.2H1.03zM270.7 0h95.854l-41.453 88.2h-94.515z" opacity=".114"/>
+        <circle cx="51.5" cy="44.5" r="5.5" fill="#FFF"/>
+        <circle cx="350.5" cy="44.5" r="5.5" fill="#FFF"/>
+        <text fill="#FFF" font-family="NotoSerifCJKtc-Bold, Noto Serif CJK TC" font-size="30" font-weight="bold">
+            <tspan x="141" y="54">看看回饋</tspan>
+        </text>
+    </g>
+</svg>

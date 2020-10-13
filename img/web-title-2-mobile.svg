@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="245" height="103" viewBox="0 0 245 103">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#FFE5B0" d="M6 97h232V7.85H6z"/>
+        <path stroke="#A56D0A" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.36" d="M5.557 95.58h232.866V7.046H5.557z"/>
+        <path stroke="#FFF" stroke-dasharray="0,8" stroke-linecap="round" stroke-width="2" d="M6 6.059h232v90.017H6V6.059z"/>
+        <path fill="#85592D" d="M241.656 0H222v1.114C222 13.201 231.74 23 243.826 23c.412 0 .823-.059 1.174-.059V3.403C245 1.525 243.475 0 241.656 0M0 3.344V23h1.114C13.201 23 23 13.26 23 1.174 23 .762 22.94.35 22.94 0H3.403C1.526 0 0 1.525 0 3.344M245 99.656V80h-1.114C231.799 80 222 89.74 222 101.826c0 .412.059.823.059 1.174h19.538c1.878 0 3.403-1.525 3.403-3.344M3.344 103H23v-1.115C23 89.799 13.26 80 1.174 80c-.412 0-.822.059-1.174.059v19.537C0 101.474 1.525 103 3.344 103"/>
+        <text fill="#430000" font-family="NotoSerifCJKtc-Bold, Noto Serif CJK TC" font-size="24" font-weight="bold">
+            <tspan x="60.736" y="40.656">台新大管家</tspan> <tspan x="50.736" y="75.656">會員專屬優惠</tspan>
+        </text>
+    </g>
+</svg>
